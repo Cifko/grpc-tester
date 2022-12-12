@@ -1,0 +1,4 @@
+/smiley.exe
+/__pycache__
+/protos/*
+!/protos/__init__.py
